@@ -17,13 +17,14 @@ img {
 }
 a {
     display: block;
-    background-color: darkred;
+    background-color: #66ff66;
     color: white;
     padding: 20px;
     text-align: center;
     font-weight: bolder;
     text-decoration: none;
+    
 }
 a:hover {
-    background-color: red;
+    background-color: rgba(26, 23, 23, 0.562);
 }            
